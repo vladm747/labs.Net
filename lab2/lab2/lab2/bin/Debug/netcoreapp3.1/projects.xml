@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projects>
+  <project>
+    <projectId>0</projectId>
+    <projectName>Forum</projectName>
+    <cost>450</cost>
+    <start>26.06.2022</start>
+    <finish>17.07.2022</finish>
+    <employees>System.Collections.Generic.List`1[lab2.Employee]</employees>
+  </project>
+  <project>
+    <projectId>1</projectId>
+    <projectName>Knowledge Accounting System</projectName>
+    <cost>300</cost>
+    <start>18.06.2022</start>
+    <finish>09.07.2022</finish>
+    <employees>System.Collections.Generic.List`1[lab2.Employee]</employees>
+  </project>
+  <project>
+    <projectId>2</projectId>
+    <projectName>File Storage</projectName>
+    <cost>277</cost>
+    <start>23.06.2022</start>
+    <finish>18.07.2022</finish>
+    <employees>System.Collections.Generic.List`1[lab2.Employee]</employees>
+  </project>
+</projects>

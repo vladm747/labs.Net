@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <employee>
+    <personId>0</personId>
+    <personName>Makogonenko Olexandr</personName>
+    <position>Middle Angular</position>
+  </employee>
+  <employee>
+    <personId>1</personId>
+    <personName>Pishchuk Maxym</personName>
+    <position>Senior C#</position>
+  </employee>
+  <employee>
+    <personId>2</personId>
+    <personName>Dukhovny Daniel</personName>
+    <position>Senior C#</position>
+  </employee>
+  <employee>
+    <personId>3</personId>
+    <personName>Moroz Vladyslav</personName>
+    <position>Junior C#</position>
+  </employee>
+  <employee>
+    <personId>4</personId>
+    <personName>Vyshnepolskiy Tima</personName>
+    <position>Junior QA</position>
+  </employee>
+</employees>
