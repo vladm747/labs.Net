@@ -1,0 +1,14 @@
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.AssemblyReference.cache
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+D:\2_course_2_sem\NET\labs\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+D:\2_course_2_sem\NET\labs\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+D:\2_course_2_sem\NET\labs\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+D:\2_course_2_sem\NET\labs\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+D:\2_course_2_sem\NET\labs\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+D:\2_course_2_sem\NET\labs\lab3\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+D:\2_course_2_sem\NET\labs\lab3\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
